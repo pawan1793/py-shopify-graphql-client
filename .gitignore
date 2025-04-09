@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment folders
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtualenv
+*.egg-info/
+*.egg
+.eggs/
+
+# Editable install metadata
+*.dist-info/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# PyCharm
+__pycache__/
+*.iml
+*.ipr
+*.iws
+
+# mypy
+.mypy_cache/
+
+# Build artifacts
+build/
+dist/
+
+# Examples or local config (optional if you want to keep them private)
+examples/config.py
