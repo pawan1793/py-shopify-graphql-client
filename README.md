@@ -1,6 +1,6 @@
 # Shopify GraphQL Client
 
-A Python client to interact with the Shopify GraphQL Admin API, inspired by Guzzle-based PHP clients.
+A Python client to interact with the Shopify GraphQL Admin API
 
 ## Installation
 
